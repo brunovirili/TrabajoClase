@@ -23,6 +23,10 @@ body {
     text-decoration: none;
 }
 
+.nav a:hover {
+    color: rgb(143, 143, 141);
+}
+
 .productos {
     display: flex;
     gap: 20px;
